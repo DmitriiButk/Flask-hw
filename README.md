@@ -1,12 +1,12 @@
 ## Flask Homework REST API.
 
 
-## Use commands in terminal:
+*Use commands in terminal:*
 ```shell
 cd Flask-hw
 ```
 ```shell
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 ```shell
 docker-compose up -d
@@ -14,9 +14,8 @@ docker-compose up -d
 ```shell
 python server.py
 ```
-
-### And use client.py to test http methods.
-
+*And use client.py to test http methods.*
+#
 # Домашнее задание к лекции «Flask»
 
 Инструкцию по сдаче домашнего задания вы найдете на главной странице репозитория. 
